@@ -1,4 +1,4 @@
-CodeZer0
+CodeZer0 [www.cyberwizards.org](www.cyberwizards.org)
 ========
 
 Cyber Wizards releases a monthly magazine named "The Code Zer0 Magazine",  a magazine dedicated to white hat hacking, security, new technology, offensive and defensive programming, latest tech crunch and our dear hacker culture. 
