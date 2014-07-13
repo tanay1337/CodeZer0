@@ -1,7 +1,7 @@
 CodeZer0
 ========
 
-Cyber Wizards(www.cyberwizards.org) releases a monthly magazine named "The Code Zer0 Magazine",  a magazine dedicated to white hat hacking, security, new technology, offensive and defensive programming, latest tech crunch and our dear hacker culture. 
+Cyber Wizards (www.cyberwizards.org) releases a monthly magazine named "The Code Zer0 Magazine",  a magazine dedicated to white hat hacking, security, new technology, offensive and defensive programming, latest tech crunch and our dear hacker culture. 
 
 We aim to educate the youth in these amazing new topics as it is "The Big Thing" and it opens brand new opportunities in the IT sector. We hope you enjoy the experience of reading the magazine. We highly value your feedback (be that critics or praises), because that will help up to improve ourselves and build a better magazine. We promise to keep the "improvement" concept on a logarithmic curve.
 
